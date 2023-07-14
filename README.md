@@ -1,7 +1,7 @@
 # Chatroom-App<br><hr>
 ## Introduction
 <hr>
-This is the chating system application where multiple users can communicate with each other 
+Chating Room application where multiple users can together chat and communicate
 
 
 ### First look:-
